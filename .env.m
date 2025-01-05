@@ -1,0 +1,2 @@
+DEPLOYMENT_ID=AKfycbzmpgK0ZtNzyPvGzA7FCHw5oTnzDwzHMUeTp0_3F-q1K9e8Yf7mSaDsg-I010niqZNz
+WEB_APP_URL=https://script.google.com/macros/s/AKfycbzmpgK0ZtNzyPvGzA7FCHw5oTnzDwzHMUeTp0_3F-q1K9e8Yf7mSaDsg-I010niqZNz
